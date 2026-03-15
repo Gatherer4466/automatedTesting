@@ -1,5 +1,7 @@
 <template>
-  <button></button>
+  <button @click="handleClicked">
+    {{ label }}
+  </button>
 </template>
 
 <script setup lang="ts">
