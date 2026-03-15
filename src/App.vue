@@ -1,11 +1,9 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+window.location.href = 'https://github.com/Gatherer4466/automatedTesting/'
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <img src="https://cdn.7tv.app/emote/01GTS8BZ9R000D50ZC809HM347/4x.png" />
 </template>
 
 <style scoped></style>
